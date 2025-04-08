@@ -1,4 +1,4 @@
-# borrador
+# ECU911
 proyecto: Analisis de inciedncias reportadas al ECU911
 objetivo: utilizar herramientas de extraccion de datos, visualizacion e interpretacion.
 descripcion: con esta actividad se trabajara cada una de las areas que comprenden desde los modelos transaccionales, extraccion de datos, y diseno de datawarehouse.
